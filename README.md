@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-image" width="200px" alt="profile-image" style="border-radius: 50%;">
+  <h1 align="center">Everton J. Lima</h1>
+  <p align="center">"The future is here, just not evenly distributed."</p>
+  <p align="center">
+    <a href="https://yourwebsite.com">Website</a> • 
+    <a href="https://blog.yourdomain.com">Blog</a> • 
+    <a href="mailto:contact@yourdomain.com">Email</a>
+  </p>
+  <img src="https://media.tenor.com/1-pcXlTDNlQAAAAd/computer-anime.gif" width="600px" alt="cyberpunk-anime-gif">
+</div>
 
-<!--
-**evertonjlima/evertonjlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location:** Utrecht, The Netherlands 🇳🇱
+- **Origins:** Brazil 🇧🇷
+- **Role:** Data Scientist
+
+
