@@ -3,11 +3,3 @@
   <p align="center">"The future is here, just not evenly distributed."</p>
 </div>
 
----
-
-### Bio
-
-- **Location:** Utrecht, The Netherlands 🇳🇱
-- **Origins:** Brazil 🇧🇷
-- **Role:** Data Scientist
-
